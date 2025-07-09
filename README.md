@@ -11,23 +11,23 @@ Este repositório contém todas as **atividades, projetos práticos, anotações
 
 ---
 
-## 🎯 O que estou aprendendo
+##  O que estou aprendendo
 
 Durante as 56 horas da formação, estou desenvolvendo habilidades nas três principais áreas que sustentam a Ciência de Dados:
 
-### 🧠 Conhecimentos Exatos
+###  Conhecimentos Exatos
 - Fundamentos matemáticos aplicados à análise de dados  
 - Estatística descritiva e inferencial  
 - Probabilidades e modelagem estatística
 
-### 💻 Tecnologia
+###  Tecnologia
 - Programação em **Python** e **R**  
 - Machine Learning e técnicas de análise preditiva  
 - Análise de dados espaciais  
 - Ferramentas tecnológicas para ciência de dados  
 - Modelagem e transformação de dados em inteligência prática
 
-### 🧩 Habilidades Comportamentais
+###  Habilidades Comportamentais
 - Interpretação crítica de dados  
 - Comunicação de resultados  
 - Aplicação de dados a contextos reais: economia, saúde, segurança pública, marketing, entre outros
@@ -35,7 +35,7 @@ Durante as 56 horas da formação, estou desenvolvendo habilidades nas três pri
 
 ---
 
-## 🚀 Objetivo do Repositório
+##  Objetivo do Repositório
 
 - Organizar o conteúdo estudado de forma clara e acessível
 - Criar um histórico de evolução técnica na área de Data Science
@@ -44,7 +44,7 @@ Durante as 56 horas da formação, estou desenvolvendo habilidades nas três pri
 
 ---
 
-## 📚 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python** e **R**  
 - Pandas, NumPy, Matplotlib, Scikit-learn  
@@ -55,20 +55,18 @@ Durante as 56 horas da formação, estou desenvolvendo habilidades nas três pri
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 Estudante de Ciência da Computação e entusiasta da **Ciência de Dados** como ferramenta de transformação social. Busco unir tecnologia, análise crítica e propósito para resolver problemas reais através dos dados.
 
 ---
 
-## 📬 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cavalcantiraissa/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=flat&logo=github)](https://github.com/cavalcantiraissas)
 
----
 
-📌 *“Ciência de Dados não é sobre dados. É sobre o que você faz com eles.”*
 
 
 
