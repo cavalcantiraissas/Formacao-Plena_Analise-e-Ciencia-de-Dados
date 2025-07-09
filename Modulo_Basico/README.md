@@ -1,5 +1,5 @@
 # 📊 Módulo Básico
-Este repositório contém os materiais e códigos desenvolvidos durante o **Módulo Básico III** do curso de Formação Plena em Análise e Ciência de Dados 
+Este repositório contém os materiais e códigos desenvolvidos durante o **Módulo Básico** do curso de Formação Plena em Análise e Ciência de Dados 
 
 O módulo aprofunda conceitos fundamentais de programação, estatística descritiva e inicia os estudos em lógica para R e Python, além de introduzir temas como Excel aplicado e Machine Learning.
 
