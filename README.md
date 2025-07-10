@@ -1,4 +1,4 @@
-#  Formação Plena em Análise e Ciência de Dados
+# Formação Plena em Análise e Ciência de Dados
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-Program-lightgrey?logo=r)](https://www.r-project.org/)
@@ -7,57 +7,100 @@
 [![Duração](https://img.shields.io/badge/Carga%20Horária-56h-blueviolet)]()
 [![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)]()
 
-Este repositório contém todas as **atividades, projetos práticos, anotações e códigos** desenvolvidos durante o curso **Formação Plena em Análise e Ciência de Dados**. O objetivo é documentar minha jornada de aprendizado, consolidar os conhecimentos adquiridos e criar um portfólio técnico com aplicações reais em Data Science.
+Este repositório reúne todos os **projetos práticos, códigos, exercícios resolvidos e anotações** desenvolvidos ao longo do curso **Formação Plena em Análise e Ciência de Dados**. É um portfólio de estudos que demonstra a evolução contínua nas áreas de Estatística, Programação e Machine Learning com Python e R.
 
 ---
 
-##  O que estou aprendendo
+##  Estrutura da Formação
 
-Durante as 56 horas da formação, estou desenvolvendo habilidades nas três principais áreas que sustentam a Ciência de Dados:
+A formação é dividida em **módulos progressivos**, com carga horária prática e teórica, abrangendo desde os fundamentos até aplicações avançadas:
+
+###  Módulo Básico
+> Fundamentos de Programação, Estatística Descritiva, Probabilidade, Excel, Lógica de Programação e Introdução ao Machine Learning.
+
+###  Módulo Básico-Intermediário
+> Aplicações práticas com R, fundamentos de Economia e Administração, análise de dados em saúde, território e políticas públicas.
+
+###  Módulo Intermediário I
+> Álgebra Linear, Estatística, Visualização de Dados, Pandas, Seaborn, Projetos Práticos com Python e Introdução à Engenharia de Software.
+
+###  Módulo Intermediário II
+> Cálculo, Probabilidade, Inferência, Big Data, Ggplot2, Dplyr e prática em projetos analíticos com dados reais.
+
+###  Módulo Intermediário-Avançado
+> Inferência Estatística, Intervalos de Confiança, Testes de Hipóteses, Regressão Linear e Não Linear.
+
+###  Módulo Avançado I
+> Regressões com Árvores de Decisão, Florestas Aleatórias, Redes Neurais Artificiais e projeto final de regressão preditiva com Python.
+
+###  Módulo Avançado II
+> Séries Temporais, Classificação, Clustering, Deep Learning, Algoritmos supervisionados e não supervisionados com Python e entrega final do projeto.
+
+---
+
+##  Objetivos do Repositório
+
+- Consolidar os conhecimentos adquiridos na formação
+- Criar um histórico documentado de aprendizado prático
+- Demonstrar a aplicação de técnicas analíticas em problemas reais
+- Compartilhar soluções, códigos e boas práticas com a comunidade
+
+---
+
+##  Habilidades Desenvolvidas
 
 ###  Conhecimentos Exatos
-- Fundamentos matemáticos aplicados à análise de dados  
-- Estatística descritiva e inferencial  
-- Probabilidades e modelagem estatística
+- Estatística Descritiva e Inferencial  
+- Cálculo, Álgebra Linear e Probabilidades  
+- Modelagem estatística e inferência
 
 ###  Tecnologia
-- Programação em **Python** e **R**  
-- Machine Learning e técnicas de análise preditiva  
-- Análise de dados espaciais  
-- Ferramentas tecnológicas para ciência de dados  
-- Modelagem e transformação de dados em inteligência prática
+- Programação em **Python** e **R**
+- Machine Learning supervisionado e não supervisionado
+- Bibliotecas: `Pandas`, `Seaborn`, `NumPy`, `Scikit-learn`, `ggplot2`, `dplyr`
+- Visualização de dados e storytelling analítico
 
-###  Habilidades Comportamentais
-- Interpretação crítica de dados  
-- Comunicação de resultados  
-- Aplicação de dados a contextos reais: economia, saúde, segurança pública, marketing, entre outros
-
+###  Soft Skills
+- Pensamento analítico
+- Comunicação de resultados
+- Aplicação crítica em contextos sociais e econômicos
 
 ---
 
-##  Objetivo do Repositório
+##  Tecnologias e Ferramentas
 
-- Organizar o conteúdo estudado de forma clara e acessível
-- Criar um histórico de evolução técnica na área de Data Science
-- Construir um portfólio que demonstre habilidades com dados reais
-- Compartilhar boas práticas e soluções com a comunidade
-
----
-
-##  Tecnologias Utilizadas
-
-- **Python** e **R**  
-- Pandas, NumPy, Matplotlib, Scikit-learn  
-- Ferramentas estatísticas  
-- GeoPandas e análise geoespacial  
-- Jupyter Notebooks / Google Colab  
-- Git e GitHub
+- **Linguagens**: Python, R  
+- **Ambientes**: Jupyter Notebooks, Google Colab  
+- **Bibliotecas e Pacotes**:
+  - Python: `Pandas`, `Seaborn`, `Scikit-learn`, `Matplotlib`, `NumPy`
+  - R: `ggplot2`, `dplyr`, `tidyr`, `caret`
+- **Controle de Versão**: Git e GitHub  
+- **Análise Geoespacial**: GeoPandas
 
 ---
 
-##  Sobre mim
+##  Organização dos Arquivos
 
-Estudante de Ciência da Computação e entusiasta da **Ciência de Dados** como ferramenta de transformação social. Busco unir tecnologia, análise crítica e propósito para resolver problemas reais através dos dados.
+O repositório está dividido por módulos, conforme a trilha da formação:
+
+```bash
+├── Modulo_Basico
+├── Modulo_Basico-Intermediario
+├── Modulo_Intermediario-I
+├── Modulo_Intermediario-II
+├── Modulo_Intermediario-Avancado
+├── Modulo_Avancado-I
+├── Modulo_Avancado-II
+└── README.md
+```
+
+Cada pasta possui seu próprio `README.md`, detalhando os conteúdos, projetos práticos e códigos abordados no respectivo módulo.
+
+---
+
+##  Sobre Mim
+
+Sou estudante de Ciência da Computação, apaixonada por dados, tecnologia e impacto social. Acredito na Ciência de Dados como uma ponte entre conhecimento e transformação — e este repositório é o reflexo do meu compromisso com o aprendizado contínuo e com a construção de soluções baseadas em evidências.
 
 ---
 
@@ -65,6 +108,8 @@ Estudante de Ciência da Computação e entusiasta da **Ciência de Dados** como
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cavalcantiraissa/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=flat&logo=github)](https://github.com/cavalcantiraissas)
+
+
 
 
 
